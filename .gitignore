@@ -1,3 +1,5 @@
 .venv
 main.py
 uv.lock
+
+statistical_hypothesis copy.ipynb
