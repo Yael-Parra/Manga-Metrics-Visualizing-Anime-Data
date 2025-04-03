@@ -27,6 +27,7 @@ ____
 This project focuses on **data cleaning and exploratory data analysis (EDA)** of manga-related data sourced from Kaggle, originally collected from [MyAnimeList](https://myanimelist.net/). The dataset consists of **14,966 rows and 24 columns**, covering manga published from **1961 to March 2025**. The project aims to infer missing values, remove unnecessary columns, and conduct hypothesis-driven analysis. Additionally, a **storytelling approach** and a final **analysis report** have been created to summarize key findings.
 
 </div>
+
 ---
 
 ##  Main Features  
