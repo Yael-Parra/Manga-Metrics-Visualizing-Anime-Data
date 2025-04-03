@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:#ffc509;"> Manga Data Analysis: Unveiling Trends and Insights </span>
+# <span style="color:#ffc509;"> Anime Data Analysis: Unveiling Trends and Insights </span>
 
 </div>
 ____
