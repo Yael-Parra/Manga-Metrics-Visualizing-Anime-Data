@@ -1,4 +1,4 @@
-# Manga-Metrics-Visualizing-Anime-Data
+# Manga Metrics: Visualizing Anime Data
 ____
 ![img_anime](<img/manga_img.png>)
 
