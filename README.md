@@ -70,14 +70,14 @@ This project focuses on **data cleaning and exploratory data analysis (EDA)** of
 
 ## Technologies Used & Dependencies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-FF3C00?logo=jupyter&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)  
-![Plotly](https://img.shields.io/badge/-Plotly-3F4B8F?logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-FF5851?logo=seaborn&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-FF3C00?logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4B8F?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-FF5851?logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-![Scipy](https://img.shields.io/badge/-SciPy-8C150D?logo=scipy&logoColor=white)  
+![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Scipy](https://img.shields.io/badge/-SciPy-8C150D?logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)  
 ---
 
