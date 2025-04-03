@@ -1,6 +1,4 @@
 .venv
 main.py
 uv.lock
-/data/*.json
-
-statistical_hypothesis copy.ipynb
+.python-version
