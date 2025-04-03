@@ -1,4 +1,8 @@
-# Manga Metrics: Visualizing Anime Data
+<div align="center">
+
+# <span style="color:#ffc509;"> Manga Data Analysis: Unveiling Trends and Insights </span>
+
+</div>
 ____
 ![img_anime](<img/manga_img.png>)
 
